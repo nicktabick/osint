@@ -23,7 +23,8 @@ WEBSITES = [
     "https://twitter.com/{}",
     "http://pastebin.com/u/{}",
     "https://www.reddit.com/user/{}.json", # use .json for reddit to avoid rate limiting and stuff
-    "https://github.com/{}"
+    "https://github.com/{}",
+    "https://www.facebook.com/{}" # only works if the user has set a vanity url
 ]
 
 def main():
