@@ -23,6 +23,7 @@ WEBSITES = [
     "https://twitter.com/{}",
     "http://pastebin.com/u/{}",
     "https://www.reddit.com/user/{}.json", # use .json for reddit to avoid rate limiting and stuff
+    "http://imgur.com/user/{}",
     "https://bitbucket.org/{}/",
     "https://github.com/{}",
     "https://gitlab.com/{}",
