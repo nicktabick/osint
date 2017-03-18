@@ -25,6 +25,7 @@ WEBSITES = [
     "https://www.reddit.com/user/{}.json", # use .json for reddit to avoid rate limiting and stuff
     "https://bitbucket.org/{}/",
     "https://github.com/{}",
+    "https://gitlab.com/{}",
     "https://www.facebook.com/{}", # only works if the user has set a vanity url
     "https://www.last.fm/user/{}"
 ]
